@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=takepaty&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF1493&bg_color=0d1117" alt="Patrícia Takehara github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takepaty&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF1493&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takepaty&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF1493&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=takepaty&theme=gotham&hide_border=true&area=true)
@@ -19,21 +19,17 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30"/> 
 <img src="https://icongr.am/devicon/git-original.svg?size=128&color=ffffff" width="40" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="30"/> 
-
-
 </div><br>
-
 
 
 <div align="center">
  <a href="https://www.linkedin.com/in/patr%C3%ADcia-takehara-borges-116a8253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/takeharapaty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        
+         
+![Snake animation](https://github.com/takepaty/takepaty/blob/output/github-contribution-grid-snake.svg)              
 </div>
 
-          
-         
-   ![Snake animation](https://github.com/takepaty/takepaty/blob/output/github-contribution-grid-snake.svg)              
-                    
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{takepaty}/count.svg" /></p> 
