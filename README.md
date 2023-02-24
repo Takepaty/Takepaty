@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takepaty&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF1493&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=takepaty&theme=gotham&hide_border=true&area=true)
+
 
 <div align="center" valign="top"><br>
 <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=ffffff" width="40" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="30"/>   <img 
