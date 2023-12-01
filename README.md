@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Patrícia+Takehara+Borges;I+from+Suzano,+SP;I+study+systems+development+at+Anhanguera;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Patrícia+Takehara+Borges;I+from+Suzano,+SP;I+Open+To+Work;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=takepaty&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF1493&bg_color=0d1117" alt="Patrícia Takehara github stats" /> 
@@ -25,14 +25,5 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 <div align="center">
  <a href="https://www.linkedin.com/in/patr%C3%ADcia-takehara-borges-116a8253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/takeharapaty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        
-         
-![Snake animation](https://github.com/takepaty/takepaty/blob/output/github-contribution-grid-snake.svg)              
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{takepaty}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
